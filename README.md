@@ -46,7 +46,7 @@ O **Binaural Beat Generator** é uma aplicação web em **React + TypeScript** q
 ---
 
 ## Estrutura do Projeto
-
+```
 binaural-beat-generator/
 ├─ src/
 │  ├─ pages/
@@ -59,7 +59,7 @@ binaural-beat-generator/
 ├─ tsconfig.json
 ├─ index.html                        # Template HTML
 └─ README.md                         # Este arquivo
-
+```
 ---
 
 ## Uso
