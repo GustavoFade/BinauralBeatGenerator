@@ -35,12 +35,12 @@ O **Binaural Beat Generator** é uma aplicação web em **React + TypeScript** q
 
    ```bash
    git clone https://github.com/seu-usuario/binaural-beat-generator.git
-   cd binaural-beat-generator
-
+   cd binaural-beat-generator```
+  
 2. **Instale as dependências do projeto**  
 
   ```bash
-  npm install
+  npm install```
 
 ---
 
@@ -63,10 +63,10 @@ binaural-beat-generator/
 
 ## Uso
 
-1. Inicie o servidor de desenvolvimento:
+1. **Inicie o servidor de desenvolvimento:**
 
    ```bash
-   npm run dev
+   npm run dev```
 
 
 2. **Abra o navegador na porta destinada a aplicação**  
